@@ -4,6 +4,7 @@ b3log/siyuan:latest
 xhofe/alist:latest
 mtphotos/mt-photos:latest
 mtphotos/mt-photos-pg:latest
-mt-photos-ai:latest
+mtphotos/mt-photos-ai:latest
 hectorqin/reader:latest
 containrrr/watchtower:latest
+kqstone/mt-photos-insightface-unofficial:latest
