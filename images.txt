@@ -1,8 +1,9 @@
 nginx
 #支持私库
-b3log/siyuan
+b3log/siyuan:latest
 xhofe/alist:latest
 mtphotos/mt-photos:latest
 mtphotos/mt-photos-pg:latest
-hectorqin/reader
-containrrr/watchtower
+mt-photos-ai:latest
+hectorqin/reader:latest
+containrrr/watchtower:latest
