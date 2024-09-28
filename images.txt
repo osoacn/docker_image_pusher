@@ -1,6 +1,8 @@
 nginx
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+b3log/siyuan
 xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+mtphotos/mt-photos:latest
+mtphotos/mt-photos-pg:latest
+hectorqin/reader
+containrrr/watchtower
