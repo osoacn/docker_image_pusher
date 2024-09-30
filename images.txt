@@ -8,3 +8,4 @@ mtphotos/mt-photos-ai:latest
 hectorqin/reader:latest
 containrrr/watchtower:latest
 kqstone/mt-photos-insightface-unofficial:latest
+tailscale/tailscale:latest
