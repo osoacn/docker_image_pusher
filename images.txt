@@ -9,4 +9,5 @@ hectorqin/reader:latest
 containrrr/watchtower:latest
 kqstone/mt-photos-insightface-unofficial:latest
 tailscale/tailscale:latest
-hectorqin/remote-webview
+hectorqin/remote-webview:latest
+excalidraw/excalidraw:latest
