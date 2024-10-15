@@ -12,3 +12,4 @@ tailscale/tailscale:latest
 hectorqin/remote-webview:latest
 excalidraw/excalidraw:latest
 shenxianmq/auto_symlink:latest
+dzhuang/tinymediamanager
