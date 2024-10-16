@@ -14,3 +14,4 @@ excalidraw/excalidraw:latest
 shenxianmq/auto_symlink:latest
 dzhuang/tinymediamanager
 amilys/embyserver
+deluan/navidrome:latest
