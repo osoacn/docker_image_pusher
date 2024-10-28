@@ -12,6 +12,7 @@ tailscale/tailscale:latest
 hectorqin/remote-webview:latest
 excalidraw/excalidraw:latest
 shenxianmq/auto_symlink:latest
-dzhuang/tinymediamanager
-amilys/embyserver
+dzhuang/tinymediamanager:latest
+amilys/embyserver:latest
 deluan/navidrome:latest
+cloudnas/clouddrive2:latest
