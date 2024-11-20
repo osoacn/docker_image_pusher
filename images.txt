@@ -21,3 +21,4 @@ ghcr.io/toeverything/affine-graphql:stable
 redis
 postgres:16
 rustdesk/rustdesk-server:latest
+rclone/rclone:latest
