@@ -1,7 +1,6 @@
 nginx
 #支持私库
 b3log/siyuan:latest
-xhofe/alist:latest
 mtphotos/mt-photos:latest
 mtphotos/mt-photos-pg:latest
 mtphotos/mt-photos-ai:latest
@@ -22,3 +21,4 @@ redis
 postgres:16
 rustdesk/rustdesk-server:latest
 rclone/rclone:latest
+xhofe/alist:latest
