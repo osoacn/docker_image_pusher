@@ -14,7 +14,6 @@ shenxianmq/auto_symlink:latest
 dzhuang/tinymediamanager:latest
 amilys/embyserver:latest
 deluan/navidrome:latest
-cloudnas/clouddrive2:latest
 xhongc/music_tag_web:latest
 ghcr.io/toeverything/affine-graphql:stable
 redis
@@ -22,3 +21,4 @@ postgres:16
 rustdesk/rustdesk-server:latest
 rclone/rclone:latest
 xhofe/alist:latest
+cloudnas/clouddrive2:latest
