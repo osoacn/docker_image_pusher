@@ -22,3 +22,4 @@ rustdesk/rustdesk-server:latest
 rclone/rclone:latest
 xhofe/alist:latest
 cloudnas/clouddrive2:latest
+mnookey/nginx-emby:latest
