@@ -11,6 +11,7 @@ tailscale/tailscale:latest
 hectorqin/remote-webview:latest
 excalidraw/excalidraw:latest
 shenxianmq/auto_symlink:latest
+xhofe/alist:latest
 dzhuang/tinymediamanager:latest
 amilys/embyserver:latest
 deluan/navidrome:latest
@@ -20,6 +21,5 @@ redis
 postgres:16
 rustdesk/rustdesk-server:latest
 rclone/rclone:latest
-xhofe/alist:latest
 cloudnas/clouddrive2:latest
 mnookey/nginx-emby:latest
