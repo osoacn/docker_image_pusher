@@ -11,7 +11,6 @@ tailscale/tailscale:latest
 hectorqin/remote-webview:latest
 excalidraw/excalidraw:latest
 shenxianmq/auto_symlink:latest
-xhofe/alist:latest
 dzhuang/tinymediamanager:latest
 amilys/embyserver:latest
 deluan/navidrome:latest
