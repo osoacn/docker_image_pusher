@@ -23,3 +23,4 @@ rclone/rclone:latest
 cloudnas/clouddrive2:latest
 mnookey/nginx-emby:latest
 razeencheng/iosbackup:latest
+openlistteam/openlist:latest
