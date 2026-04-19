@@ -1,4 +1,3 @@
-nginx
 #支持私库
 b3log/siyuan:latest
 mtphotos/mt-photos:latest
@@ -15,12 +14,7 @@ dzhuang/tinymediamanager:latest
 amilys/embyserver:latest
 deluan/navidrome:latest
 xhongc/music_tag_web:latest
-ghcr.io/toeverything/affine-graphql:stable
-redis
-postgres:16
 rustdesk/rustdesk-server:latest
-rclone/rclone:latest
 cloudnas/clouddrive2:latest
-mnookey/nginx-emby:latest
 razeencheng/iosbackup:latest
 openlistteam/openlist:latest
