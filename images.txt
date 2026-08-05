@@ -4,6 +4,8 @@ mtphotos/mt-photos:latest
 mtphotos/mt-photos-pg:latest
 mtphotos/mt-photos-ai:latest
 hectorqin/reader:latest
+openlistteam/openlist:latest
+ponphil/litepan:beta
 containrrr/watchtower:latest
 kqstone/mt-photos-insightface-unofficial:latest
 tailscale/tailscale:latest
@@ -17,4 +19,4 @@ xhongc/music_tag_web:latest
 rustdesk/rustdesk-server:latest
 cloudnas/clouddrive2:latest
 razeencheng/iosbackup:latest
-openlistteam/openlist:latest
+
