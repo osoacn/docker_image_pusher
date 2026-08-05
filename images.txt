@@ -5,7 +5,7 @@ mtphotos/mt-photos-pg:latest
 mtphotos/mt-photos-ai:latest
 hectorqin/reader:latest
 openlistteam/openlist:latest
-ponphil/litepan:beta
+ponphil/litepan:latest
 containrrr/watchtower:latest
 kqstone/mt-photos-insightface-unofficial:latest
 tailscale/tailscale:latest
